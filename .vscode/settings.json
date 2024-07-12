@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "vim.useSystemClipboard": true, // OS のクリップボードと同期
 }
